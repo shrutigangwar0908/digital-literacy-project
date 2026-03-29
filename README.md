@@ -1,4 +1,4 @@
-Hello, I'm Pratha Chouhan
+Hello, I'm Shruti Gangwar
 * B.Tech First Year Student
 * Branch: B.Tech Computer Science Engineering specialisation in Artificial Intelligence and Machine Learning
 * University: VIT University
